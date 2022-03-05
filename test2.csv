@@ -1,5 +1,5 @@
 property_type,beds
-Room in bed and breakfast,10
-Entire rental unit,11
-Private room in rental unit,12
-Entire condominium (condo),13
+Room,10
+Entire,11
+Private,12
+condo,13
