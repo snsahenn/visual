@@ -1,4 +1,4 @@
-id,Country,host_listings_count,neighbourhood_cleansed,neighbourhood_group_cleansed,latitude,longitude,property_type,room_type
+id,Country,Value,neighbourhood_cleansed,neighbourhood_group_cleansed,latitude,longitude,property_type,room_type
 15883,Donaustadt,6,Donaustadt,,48.24262,16.42767,Room in bed and breakfast,Hotel room
 38768,Leopoldstadt,1,Leopoldstadt,,48.21924,16.37831,Entire rental unit,Entire home/apt
 40625,Rudolfsheim-FÇ¬nfhaus,16,Rudolfsheim-F¶?nfhaus,,48.18434,16.32701,Entire rental unit,Entire home/apt
