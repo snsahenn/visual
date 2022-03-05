@@ -1,4 +1,4 @@
-property_type,beds
+type,beds
 Room,10
 Entire,11
 Private,12
