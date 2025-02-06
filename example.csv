@@ -1,4 +1,4 @@
-Name;Age;Price 
-john;30;1
-tim ;23;2
-ana;12;3
+Name,Age,Price 
+john,30,1
+tim,23,2
+ana,12,3
